@@ -1,2 +1,0 @@
-# FireDetection
-ML project.
